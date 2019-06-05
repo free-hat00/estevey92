@@ -1,0 +1,19 @@
+<packageInfo>
+    <bundleId>com.popcorntimetv.popcorntime.ios</bundleId>
+    <name>Popcorntime</name>
+    <version>1.0</version>
+    <descriptions>
+        <description>
+            popcorntime app for ios
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>12.1.2</maxiOS>
+    </compatibility>
+    <changelog>
+            <changeVersion>V0.0.1</changeVersion>
+            <changeDescription>We really in this bitch</changeDescription>
+    </changelog>
+</packageInfo>
+

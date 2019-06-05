@@ -1,0 +1,22 @@
+<packageInfo>
+    <bundleId>com.nin9ty.fortune-free</bundleId>
+    <name>Fortune</name>
+    <version>1.4.1</version>
+    <descriptions>
+        <description>
+            4chan app for ios
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>6.0</miniOS>
+        <maxiOS>12.1.2</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>firmware (6.0+)</dependency>
+    </dependencies>
+    <changelog>
+            <changeVersion>V0.0.1</changeVersion>
+            <changeDescription>We really in this bitch</changeDescription>
+    </changelog>
+</packageInfo>
+

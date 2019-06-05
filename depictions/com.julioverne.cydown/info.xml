@@ -1,0 +1,31 @@
+<packageInfo>
+    <bundleId>come.julioverne.cydown</bundleId>
+    <name>CyDown</name>
+    <version>6.9.7</version>
+    <descriptions>
+        <description>
+            ciggity, ciggity cydown
+        </description>
+        <description>
+            cydia download manager n shit
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>8.3</miniOS>
+        <maxiOS>12.1.2</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>cydia</dependency>
+        <dependency>coreutils-bin</dependency>
+        <dependency>coreutils</dependency>
+        <dependency>apt7</dependency>
+        <dependency>firmware (8.3+) | ldid (1:1.2.1+)</dependency>
+        <dependency>mobilesubstrate</dependency>
+        <dependency>preferenceloaders</dependency>
+    </dependencies>
+    <changelog>
+            <changeVersion>V0.0.1</changeVersion>
+            <changeDescription>We really in this bitch</changeDescription>
+    </changelog>
+</packageInfo>
+
